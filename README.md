@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Nintendo, rodents and aliens👽**
 
-- 📫 How to reach me **alessandro.scisci@edu.itspiemonte.it**
+- 📫 How to reach me **svarionale@proton.me**
 
 - ⚡ Fun fact **I don't understand sarcasm.**
 
