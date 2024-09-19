@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">Trying to save the world one app at a time.</h3>
 
-- 🔭 I’m currently working on **growing my knowledge.**
+- 🔭 I’m currently working on **developing beautiful frontend experiences for Web and Mobile.**
 
-- 🌱 I’m currently learning **Android, iOS and web development.**
+- 🌱 I’m currently improving my **Kotlin, React, Vue and full stack development skills.**
 
 - 💬 Ask me about **Nintendo, rodents and aliens👽**
 
-- 📫 How to reach me **svarionale@proton.me**
+- 📫 How to reach me **alexscisci91@gmail.com**
 
 - ⚡ Fun fact **I don't understand sarcasm.**
 
